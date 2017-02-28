@@ -1,0 +1,204 @@
+# Reading C:/intelFPGA_lite/16.1/modelsim_ase/tcl/vsim/pref.tcl
+# do ahf_mRISC521_brd_run_msim_rtl_verilog.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim - Intel FPGA Edition vmap 10.5b Lib Mapping Utility 2016.10 Oct  5 2016
+# vmap work rtl_work 
+# Copying C:/intelFPGA_lite/16.1/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# 
+# vlog -vlog01compat -work work +incdir+C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd {C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_mRISC521_brd.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:37:42 on Dec 10,2016
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd" C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_mRISC521_brd.v 
+# -- Compiling module ahf_mRISC521_brd
+# 
+# Top level modules:
+# 	ahf_mRISC521_brd
+# End time: 13:37:42 on Dec 10,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd {C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_RISC521_v.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:37:42 on Dec 10,2016
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd" C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_RISC521_v.v 
+# -- Compiling module ahf4722_RISC521_v
+# 
+# Top level modules:
+# 	ahf4722_RISC521_v
+# End time: 13:37:43 on Dec 10,2016, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd {C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_crom_v.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:37:43 on Dec 10,2016
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd" C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_crom_v.v 
+# -- Compiling module ahf_crom_v
+# 
+# Top level modules:
+# 	ahf_crom_v
+# End time: 13:37:43 on Dec 10,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd {C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_cram_v.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:37:43 on Dec 10,2016
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd" C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_cram_v.v 
+# -- Compiling module ahf_cram_v
+# 
+# Top level modules:
+# 	ahf_cram_v
+# End time: 13:37:43 on Dec 10,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd {C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_8to3_enc.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:37:43 on Dec 10,2016
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd" C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_8to3_enc.v 
+# -- Compiling module ahf_8to3_enc
+# ** Warning: C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_8to3_enc.v(8): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+# ** Warning: C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_8to3_enc.v(9): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+# ** Warning: C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_8to3_enc.v(10): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+# ** Warning: C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_8to3_enc.v(11): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+# ** Warning: C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_8to3_enc.v(12): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+# ** Warning: C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_8to3_enc.v(13): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+# ** Warning: C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_8to3_enc.v(14): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+# ** Warning: C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_8to3_enc.v(15): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+# 
+# Top level modules:
+# 	ahf_8to3_enc
+# End time: 13:37:43 on Dec 10,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 8
+# vlog -vlog01compat -work work +incdir+C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd {C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_2to1Mux_v.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:37:43 on Dec 10,2016
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd" C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_2to1Mux_v.v 
+# -- Compiling module ahf_2to1Mux_v
+# 
+# Top level modules:
+# 	ahf_2to1Mux_v
+# End time: 13:37:43 on Dec 10,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd {C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_CAM_v.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:37:43 on Dec 10,2016
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd" C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_CAM_v.v 
+# -- Compiling module ahf_CAM_v
+# ** Warning: C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_CAM_v.v(30): (vlog-2256) Event expressions should result in a singular type.
+# ** Warning: C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_CAM_v.v(46): (vlog-2256) Event expressions should result in a singular type.
+# 
+# Top level modules:
+# 	ahf_CAM_v
+# End time: 13:37:43 on Dec 10,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 2
+# vlog -vlog01compat -work work +incdir+C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd {C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_RISC521_slave.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:37:43 on Dec 10,2016
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd" C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_RISC521_slave.v 
+# -- Compiling module ahf4722_RISC521_slave
+# 
+# Top level modules:
+# 	ahf4722_RISC521_slave
+# End time: 13:37:44 on Dec 10,2016, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd {C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_mainpll.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:37:44 on Dec 10,2016
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd" C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_mainpll.v 
+# -- Compiling module ahf_mainpll
+# 
+# Top level modules:
+# 	ahf_mainpll
+# End time: 13:37:44 on Dec 10,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd {C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_rom1.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:37:44 on Dec 10,2016
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd" C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_rom1.v 
+# -- Compiling module ahf_rom1
+# 
+# Top level modules:
+# 	ahf_rom1
+# End time: 13:37:44 on Dec 10,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd {C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_cache_v.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:37:44 on Dec 10,2016
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd" C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_cache_v.v 
+# -- Compiling module ahf_cache_v
+# 
+# Top level modules:
+# 	ahf_cache_v
+# End time: 13:37:45 on Dec 10,2016, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd {C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_ram1.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:37:45 on Dec 10,2016
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd" C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_ram1.v 
+# -- Compiling module ahf_ram1
+# 
+# Top level modules:
+# 	ahf_ram1
+# End time: 13:37:45 on Dec 10,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/db {C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/db/ahf_mainpll_altpll.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:37:45 on Dec 10,2016
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/db" C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/db/ahf_mainpll_altpll.v 
+# -- Compiling module ahf_mainpll_altpll
+# 
+# Top level modules:
+# 	ahf_mainpll_altpll
+# End time: 13:37:45 on Dec 10,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vlog -vlog01compat -work work +incdir+C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd {C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_mRISC521_brd_tb.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:37:45 on Dec 10,2016
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd" C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_mRISC521_brd_tb.v 
+# -- Compiling module ahf_mRISC521_brd_tb
+# 
+# Top level modules:
+# 	ahf_mRISC521_brd_tb
+# End time: 13:37:45 on Dec 10,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs="+acc"  ahf_mRISC521_brd_tb
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs=""+acc"" ahf_mRISC521_brd_tb 
+# Start time: 13:37:46 on Dec 10,2016
+# Loading work.ahf_mRISC521_brd_tb
+# Loading work.ahf_mRISC521_brd
+# Loading work.ahf_mainpll
+# Loading altera_mf_ver.altpll
+# Loading altera_mf_ver.ALTERA_DEVICE_FAMILIES
+# Loading altera_mf_ver.pll_iobuf
+# Loading work.ahf4722_RISC521_v
+# Loading work.ahf_crom_v
+# Loading work.ahf_CAM_v
+# Loading work.ahf_rom1
+# Loading altera_mf_ver.altsyncram
+# Loading work.ahf_2to1Mux_v
+# Loading work.ahf_cache_v
+# Loading work.ahf_8to3_enc
+# Loading work.ahf_cram_v
+# Loading work.ahf_ram1
+# Loading work.ahf4722_RISC521_slave
+# Loading altera_mf_ver.MF_cycloneiii_pll
+# Loading altera_mf_ver.cda_m_cntr
+# Loading altera_mf_ver.cda_n_cntr
+# Loading altera_mf_ver.cda_scale_cntr
+# Loading altera_mf_ver.altsyncram_body
+# Loading altera_mf_ver.ALTERA_MF_MEMORY_INITIALIZATION
+# 
+# add wave *
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run -all
+#  Note : Cyclone IV E PLL locked to incoming clock
+# Time: 180000  Instance: ahf_mRISC521_brd_tb.dut.b2v_inst.altpll_component.cycloneiii_pll.pll3
+# Note : Cyclone IV E PLL lost lock due to loss of input clock or the input clock is not detected within the allowed time frame.
+# Note : Please run timing simulation to check whether the input clock is operating within the supported VCO range or not.
+# Time: 1774460000  Instance: ahf_mRISC521_brd_tb.dut.b2v_inst.altpll_component.cycloneiii_pll.pll3
+# End time: 13:38:15 on Dec 10,2016, Elapsed time: 0:00:29
+# Errors: 0, Warnings: 0

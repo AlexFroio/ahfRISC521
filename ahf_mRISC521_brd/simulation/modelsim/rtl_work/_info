@@ -1,0 +1,324 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/simulation/modelsim
+vahf4722_RISC521_slave
+Z1 !s110 1481395064
+!i10b 1
+!s100 Dkn[o;0A@V]Va:U?BJDXY2
+I?VG43G]U`:W^`XiJ2Ua]g1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1481393834
+8C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_RISC521_slave.v
+FC:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_RISC521_slave.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1481395063.000000
+!s107 C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_RISC521_slave.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd|C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_RISC521_slave.v|
+!i113 1
+Z5 o-vlog01compat -work work
+Z6 !s92 -vlog01compat -work work +incdir+C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd
+Z7 tCvgOpt 0
+nahf4722_@r@i@s@c521_slave
+vahf4722_RISC521_v
+Z8 !s110 1481395062
+!i10b 1
+!s100 z`nAzeBa=P>I0JD]9_Tj?0
+I=3JD5J93zTHNWOhcCPA>C1
+R2
+R0
+w1481394827
+8C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_RISC521_v.v
+FC:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_RISC521_v.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z9 !s108 1481395062.000000
+!s107 C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_RISC521_v.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd|C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_RISC521_v.v|
+!i113 1
+R5
+R6
+R7
+nahf4722_@r@i@s@c521_v
+vahf_2to1Mux_v
+Z10 !s110 1481395063
+!i10b 1
+!s100 UCRIgiWVCmWUPR4=7z;<F0
+ID3h9K;7l7YbhISo?k04@A1
+R2
+R0
+w1481166245
+8C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_2to1Mux_v.v
+FC:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_2to1Mux_v.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_2to1Mux_v.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd|C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_2to1Mux_v.v|
+!i113 1
+R5
+R6
+R7
+nahf_2to1@mux_v
+vahf_8to3_enc
+R10
+!i10b 1
+!s100 Y6GZbg];iGCg8cgEhQ5d]2
+Izd;hQ_ELi2X8mDE]DT^KQ1
+R2
+R0
+w1481166213
+8C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_8to3_enc.v
+FC:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_8to3_enc.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_8to3_enc.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd|C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_8to3_enc.v|
+!i113 1
+R5
+R6
+R7
+vahf_cache_v
+R1
+!i10b 1
+!s100 hD<6>8Lg0CTz_@WD:eZSQ1
+IjTHnYo=ll_O62lNMLEzH71
+R2
+R0
+w1481294624
+8C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_cache_v.v
+FC:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_cache_v.v
+Z11 L0 40
+R3
+r1
+!s85 0
+31
+Z12 !s108 1481395064.000000
+!s107 C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_cache_v.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd|C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_cache_v.v|
+!i113 1
+R5
+R6
+R7
+vahf_CAM_v
+R10
+!i10b 1
+!s100 kFmR1LaScXWNjd5I;Ph8U3
+If[<_zjS=@gzDV0?kdfR1o1
+R2
+R0
+w1481166298
+8C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_CAM_v.v
+FC:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_CAM_v.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_CAM_v.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd|C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_CAM_v.v|
+!i113 1
+R5
+R6
+R7
+nahf_@c@a@m_v
+vahf_cram_v
+R10
+!i10b 1
+!s100 ;J@UMPj^3X5<U5:VZd3]J3
+IczdKdkT?bA[mZoP64d=nO1
+R2
+R0
+w1481166166
+8C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_cram_v.v
+FC:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_cram_v.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_cram_v.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd|C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_cram_v.v|
+!i113 1
+R5
+R6
+R7
+vahf_crom_v
+R10
+!i10b 1
+!s100 oLj@bhZ:gK9BH1S9Hm=[H2
+I`I?00H[;c^GZ^WVh??M3L1
+R2
+R0
+w1481304093
+8C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_crom_v.v
+FC:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_crom_v.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_crom_v.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd|C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_crom_v.v|
+!i113 1
+R5
+R6
+R7
+vahf_mainpll
+R1
+!i10b 1
+!s100 ?7QWTgA<hT5[:[dgkzTmz1
+IZJB0``zIGadm_4c6]nLo[0
+R2
+R0
+w1481322220
+8C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_mainpll.v
+FC:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_mainpll.v
+R11
+R3
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_mainpll.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd|C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_mainpll.v|
+!i113 1
+R5
+R6
+R7
+vahf_mainpll_altpll
+Z13 !s110 1481395065
+!i10b 1
+!s100 <8d7Se;@_l<UL:9n9=`_S1
+I73RNP@^GLT=B;]diHnkIS2
+R2
+R0
+w1481322527
+8C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/db/ahf_mainpll_altpll.v
+FC:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/db/ahf_mainpll_altpll.v
+L0 30
+R3
+r1
+!s85 0
+31
+Z14 !s108 1481395065.000000
+!s107 C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/db/ahf_mainpll_altpll.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/db|C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/db/ahf_mainpll_altpll.v|
+!i113 1
+R5
+!s92 -vlog01compat -work work +incdir+C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/db
+R7
+vahf_mRISC521_brd
+R8
+!i10b 1
+!s100 O4^2HHeTkdzQ33OiilP5A2
+ISb83^TIfPC8EbA:UVd<NM1
+R2
+R0
+w1481392388
+8C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_mRISC521_brd.v
+FC:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_mRISC521_brd.v
+L0 20
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_mRISC521_brd.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd|C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_mRISC521_brd.v|
+!i113 1
+R5
+R6
+R7
+nahf_m@r@i@s@c521_brd
+vahf_mRISC521_brd_tb
+R13
+!i10b 1
+!s100 ?7@HLo0Aj2Q]SS<bB;jS92
+I6AH25=aoodU74I8UhQ0>R3
+R2
+R0
+w1481393801
+8C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_mRISC521_brd_tb.v
+FC:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_mRISC521_brd_tb.v
+L0 3
+R3
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_mRISC521_brd_tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd|C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_mRISC521_brd_tb.v|
+!i113 1
+R5
+R6
+R7
+nahf_m@r@i@s@c521_brd_tb
+vahf_ram1
+R13
+!i10b 1
+!s100 @b^h6nCINjecFYWidcP@G0
+I;M43IhDk`T^PNfFeVBV<=0
+R2
+R0
+w1481294730
+8C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_ram1.v
+FC:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_ram1.v
+R11
+R3
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_ram1.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd|C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_ram1.v|
+!i113 1
+R5
+R6
+R7
+vahf_rom1
+R1
+!i10b 1
+!s100 =DI3oBcOl8PBA8iAX2^@>2
+I<<G8adUEfP6>]Sl:la7Ua1
+R2
+R0
+w1481304013
+8C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_rom1.v
+FC:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_rom1.v
+R11
+R3
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_rom1.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd|C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_rom1.v|
+!i113 1
+R5
+R6
+R7

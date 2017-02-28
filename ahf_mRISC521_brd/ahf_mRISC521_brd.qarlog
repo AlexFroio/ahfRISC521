@@ -1,0 +1,49 @@
+Quartus Prime Archive log --	C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_mRISC521_brd.qarlog
+
+Archive:	C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_mRISC521_brd.qar
+Date:		Sat Dec 10 17:01:09 2016
+Quartus Prime		16.1.0 Build 196 10/24/2016 SJ Lite Edition
+
+	=========== Files Selected: ===========
+C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_2to1Mux_v.v
+C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_8to3_enc.v
+C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_CAM_v.v
+C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_RISC521_slave.v
+C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_RISC521_v.v
+C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_cache_v.bsf
+C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_cache_v.cmp
+C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_cache_v.qip
+C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_cache_v.v
+C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_cache_v_bb.v
+C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_cram_v.v
+C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_crom_v.v
+C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_mRISC521_brd.qpf
+C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_mRISC521_brd.qsf
+C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_mRISC521_brd.v
+C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_mRISC521_brd_tb.v
+C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_mainpll.bsf
+C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_mainpll.cmp
+C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_mainpll.ppf
+C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_mainpll.qip
+C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_mainpll.v
+C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_mainpll_bb.v
+C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_ram1.bsf
+C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_ram1.cmp
+C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_ram1.qip
+C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_ram1.v
+C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_ram1_bb.v
+C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_rom1.bsf
+C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_rom1.cmp
+C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_rom1.qip
+C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_rom1.v
+C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ahf_rom1_bb.v
+C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/masterv3.mif
+C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/ram1lab11v4.mif
+C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/slave0v3.mif
+C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/slave1v3.mif
+C:/Users/alexa_000/Documents/ahfRISC521/ahf_mRISC521_brd/slave2v3.mif
+c:/intelfpga_lite/16.1/quartus/bin64/assignment_defaults.qdf
+	======= Total: 38 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.

@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Sat Dec 10 13:37:26 2016
+Quartus Prime Version : 16.1.0 Build 196 10/24/2016 SJ Lite Edition
+Revision Name : ahf_mRISC521_brd
+Top-level Entity Name : ahf_mRISC521_brd
+Family : Cyclone IV E
+Total logic elements : 16,847
+    Total combinational functions : 16,575
+    Dedicated logic registers : 3,269
+Total registers : 3269
+Total pins : 15
+Total virtual pins : 0
+Total memory bits : 129,024
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 1

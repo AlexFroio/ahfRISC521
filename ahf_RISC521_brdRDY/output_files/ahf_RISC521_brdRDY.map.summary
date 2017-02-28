@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Sat Dec 10 18:47:24 2016
+Quartus Prime Version : 16.1.0 Build 196 10/24/2016 SJ Lite Edition
+Revision Name : ahf_RISC521_brdRDY
+Top-level Entity Name : ahf_RISC521_brdRDY
+Family : Cyclone IV E
+Total logic elements : 4,101
+    Total combinational functions : 4,035
+    Dedicated logic registers : 798
+Total registers : 798
+Total pins : 15
+Total virtual pins : 0
+Total memory bits : 32,256
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 1

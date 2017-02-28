@@ -1,0 +1,52 @@
+Quartus Prime Archive log --	C:/Users/alexa_000/Documents/ahfRISC521/ahf_RISC521_brdRDY/ahf_RISC521_brdRDY.qarlog
+
+Archive:	C:/Users/alexa_000/Documents/ahfRISC521/ahf_RISC521_brdRDY/ahf_RISC521_brdRDY.qar
+Date:		Fri Dec 09 11:14:09 2016
+Quartus Prime		16.1.0 Build 196 10/24/2016 SJ Lite Edition
+
+	=========== Files Selected: ===========
+C:/Users/alexa_000/Documents/ahfRISC521/ahf_RISC521_brdRDY/ahf_2to1Mux_v.v
+C:/Users/alexa_000/Documents/ahfRISC521/ahf_RISC521_brdRDY/ahf_8to3_enc.v
+C:/Users/alexa_000/Documents/ahfRISC521/ahf_RISC521_brdRDY/ahf_CAM_v.v
+C:/Users/alexa_000/Documents/ahfRISC521/ahf_RISC521_brdRDY/ahf_RISC521_brdRDY.out.sdc
+C:/Users/alexa_000/Documents/ahfRISC521/ahf_RISC521_brdRDY/ahf_RISC521_brdRDY.qpf
+C:/Users/alexa_000/Documents/ahfRISC521/ahf_RISC521_brdRDY/ahf_RISC521_brdRDY.qsf
+C:/Users/alexa_000/Documents/ahfRISC521/ahf_RISC521_brdRDY/ahf_RISC521_brdRDY.sdc
+C:/Users/alexa_000/Documents/ahfRISC521/ahf_RISC521_brdRDY/ahf_RISC521_brdRDY.v
+C:/Users/alexa_000/Documents/ahfRISC521/ahf_RISC521_brdRDY/ahf_RISC521_brdRDYBackup.sdc
+C:/Users/alexa_000/Documents/ahfRISC521/ahf_RISC521_brdRDY/ahf_RISC521_brdRDY_tb.v
+C:/Users/alexa_000/Documents/ahfRISC521/ahf_RISC521_brdRDY/ahf_RISC521_brdRDYblck.bdf
+C:/Users/alexa_000/Documents/ahfRISC521/ahf_RISC521_brdRDY/ahf_RISC521_v.v
+C:/Users/alexa_000/Documents/ahfRISC521/ahf_RISC521_brdRDY/ahf_cache_v.bsf
+C:/Users/alexa_000/Documents/ahfRISC521/ahf_RISC521_brdRDY/ahf_cache_v.cmp
+C:/Users/alexa_000/Documents/ahfRISC521/ahf_RISC521_brdRDY/ahf_cache_v.qip
+C:/Users/alexa_000/Documents/ahfRISC521/ahf_RISC521_brdRDY/ahf_cache_v.v
+C:/Users/alexa_000/Documents/ahfRISC521/ahf_RISC521_brdRDY/ahf_cache_v_bb.v
+C:/Users/alexa_000/Documents/ahfRISC521/ahf_RISC521_brdRDY/ahf_cram_v.v
+C:/Users/alexa_000/Documents/ahfRISC521/ahf_RISC521_brdRDY/ahf_crom_v.v
+C:/Users/alexa_000/Documents/ahfRISC521/ahf_RISC521_brdRDY/ahf_mainpll.bsf
+C:/Users/alexa_000/Documents/ahfRISC521/ahf_RISC521_brdRDY/ahf_mainpll.cmp
+C:/Users/alexa_000/Documents/ahfRISC521/ahf_RISC521_brdRDY/ahf_mainpll.ppf
+C:/Users/alexa_000/Documents/ahfRISC521/ahf_RISC521_brdRDY/ahf_mainpll.qip
+C:/Users/alexa_000/Documents/ahfRISC521/ahf_RISC521_brdRDY/ahf_mainpll.v
+C:/Users/alexa_000/Documents/ahfRISC521/ahf_RISC521_brdRDY/ahf_mainpll_bb.v
+C:/Users/alexa_000/Documents/ahfRISC521/ahf_RISC521_brdRDY/ahf_ram1.bsf
+C:/Users/alexa_000/Documents/ahfRISC521/ahf_RISC521_brdRDY/ahf_ram1.cmp
+C:/Users/alexa_000/Documents/ahfRISC521/ahf_RISC521_brdRDY/ahf_ram1.qip
+C:/Users/alexa_000/Documents/ahfRISC521/ahf_RISC521_brdRDY/ahf_ram1.v
+C:/Users/alexa_000/Documents/ahfRISC521/ahf_RISC521_brdRDY/ahf_ram1_bb.v
+C:/Users/alexa_000/Documents/ahfRISC521/ahf_RISC521_brdRDY/ahf_rom1.bsf
+C:/Users/alexa_000/Documents/ahfRISC521/ahf_RISC521_brdRDY/ahf_rom1.cmp
+C:/Users/alexa_000/Documents/ahfRISC521/ahf_RISC521_brdRDY/ahf_rom1.qip
+C:/Users/alexa_000/Documents/ahfRISC521/ahf_RISC521_brdRDY/ahf_rom1.v
+C:/Users/alexa_000/Documents/ahfRISC521/ahf_RISC521_brdRDY/ahf_rom1_bb.v
+C:/Users/alexa_000/Documents/ahfRISC521/ahf_RISC521_brdRDY/assignment_defaults.qdf
+C:/Users/alexa_000/Documents/ahfRISC521/ahf_RISC521_brdRDY/output_files/Chain1.cdf
+C:/Users/alexa_000/Documents/ahfRISC521/ahf_RISC521_brdRDY/output_files/Chain2.cdf
+C:/Users/alexa_000/Documents/ahfRISC521/ahf_RISC521_brdRDY/ram1Lab11v2.mif
+C:/Users/alexa_000/Documents/ahfRISC521/ahf_RISC521_brdRDY/ram1Lab11v4.mif
+C:/Users/alexa_000/Documents/ahfRISC521/ahf_RISC521_brdRDY/rom1Lab11p3v19.mif
+	======= Total: 41 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.

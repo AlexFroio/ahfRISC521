@@ -1,0 +1,116 @@
+Restore Archived Project report for ahf_RISC521_brdRDY
+Tue Dec 06 16:12:43 2016
+Quartus Prime Version 16.1.0 Build 196 10/24/2016 SJ Lite Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Restore Archived Project Summary
+  3. Restore Archived Project Messages
+  4. Files Restored
+  5. Files Not Restored
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 2016  Intel Corporation. All rights reserved.
+Your use of Intel Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Intel Program License 
+Subscription Agreement, the Intel Quartus Prime License Agreement,
+the Intel MegaCore Function License Agreement, or other 
+applicable license agreement, including, without limitation, 
+that your use is for the sole purpose of programming logic 
+devices manufactured by Intel and sold by Intel or its 
+authorized distributors.  Please refer to the applicable 
+agreement for further details.
+
+
+
++-------------------------------------------------------------------------+
+; Restore Archived Project Summary                                        ;
++---------------------------------+---------------------------------------+
+; Restore Archived Project Status ; Successful - Tue Dec 06 16:12:43 2016 ;
+; Revision Name                   ; ahf_RISC521_brdRDY                    ;
+; Top-level Entity Name           ; ahf_RISC521_brdRDY                    ;
+; Family                          ; Cyclone IV E                          ;
++---------------------------------+---------------------------------------+
+
+
++-----------------------------------+
+; Restore Archived Project Messages ;
++-----------------------------------+
+Info: Successfully restored 'C:/Users/alexa_000/Documents/ahfRISC521/ahf_RISC521_brdRDY.qar' into the 'C:/Users/alexa_000/Documents/ahfRISC521/ahf_RISC521_brdRDY/' directory
+Info: Generated report 'ahf_RISC521_brdRDY.restore.rpt'
+Info (23030): Evaluation of Tcl script c:/intelfpga_lite/16.1/quartus/common/tcl/apps/qpm/qar.tcl was successful
+Info: Quartus Prime Shell was successful. 0 errors, 3 warnings
+    Info: Peak virtual memory: 708 megabytes
+    Info: Processing ended: Tue Dec 06 16:12:43 2016
+    Info: Elapsed time: 00:00:00
+    Info: Total CPU time (on all processors): 00:00:01
+
+
++----------------------------+
+; Files Restored             ;
++----------------------------+
+; File Name                  ;
++----------------------------+
+; qar_info.json              ;
+; ahf_2to1Mux_v.v            ;
+; ahf_8to3_enc.v             ;
+; ahf_CAM_v.v                ;
+; ahf_RISC521_brdRDY.qpf     ;
+; ahf_RISC521_brdRDY.qsf     ;
+; ahf_RISC521_brdRDY.v       ;
+; ahf_RISC521_brdRDY_tb.v    ;
+; ahf_RISC521_brdRDYblck.bdf ;
+; ahf_RISC521_v.v            ;
+; ahf_cache_v.bsf            ;
+; ahf_cache_v.cmp            ;
+; ahf_cache_v.qip            ;
+; ahf_cache_v.v              ;
+; ahf_cache_v_bb.v           ;
+; ahf_cram_v.v               ;
+; ahf_crom_v.v               ;
+; ahf_mainpll.bsf            ;
+; ahf_mainpll.cmp            ;
+; ahf_mainpll.ppf            ;
+; ahf_mainpll.qip            ;
+; ahf_mainpll.v              ;
+; ahf_mainpll_bb.v           ;
+; ahf_ram1.bsf               ;
+; ahf_ram1.cmp               ;
+; ahf_ram1.qip               ;
+; ahf_ram1.v                 ;
+; ahf_ram1_bb.v              ;
+; ahf_rom1.bsf               ;
+; ahf_rom1.cmp               ;
+; ahf_rom1.qip               ;
+; ahf_rom1.v                 ;
+; ahf_rom1_bb.v              ;
+; assignment_defaults.qdf    ;
+; output_files/Chain1.cdf    ;
+; output_files/Chain2.cdf    ;
+; ram1Lab11v2.mif            ;
+; ram1Lab11v4.mif            ;
+; rom1Lab11p3v19.mif         ;
++----------------------------+
+
+
++--------------------+
+; Files Not Restored ;
++--------------------+
+; File Name          ;
++--------------------+
+; ram1lab11v4.mif    ;
+; rom1lab11p3v19.mif ;
++--------------------+
+
+

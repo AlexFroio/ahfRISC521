@@ -1,0 +1,16 @@
+Fitter Status : Successful - Thu Dec 08 15:33:22 2016
+Quartus Prime Version : 16.1.0 Build 196 10/24/2016 SJ Lite Edition
+Revision Name : ahf_RISC521_brdRDY
+Top-level Entity Name : ahf_RISC521_brdRDY
+Family : Cyclone IV E
+Device : EP4CE22F17C6
+Timing Models : Final
+Total logic elements : 4,062 / 22,320 ( 18 % )
+    Total combinational functions : 4,035 / 22,320 ( 18 % )
+    Dedicated logic registers : 798 / 22,320 ( 4 % )
+Total registers : 798
+Total pins : 15 / 154 ( 10 % )
+Total virtual pins : 0
+Total memory bits : 32,256 / 608,256 ( 5 % )
+Embedded Multiplier 9-bit elements : 0 / 132 ( 0 % )
+Total PLLs : 1 / 4 ( 25 % )
